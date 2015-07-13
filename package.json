@@ -1,0 +1,16 @@
+{
+  "name": "transform-property",
+  "version": "1.0.0",
+  "description": "Name of the CSS transform property (cross-browser)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ubergrape/transform-property.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ubergrape/transform-property/issues"
+  },
+  "homepage": "https://github.com/ubergrape/transform-property"
+}
